@@ -8,11 +8,11 @@ Pod::Spec.new do |s|
   A Swift color picker UIControl which allows users to select color(s) on a color wheel. Supports multiple handles, an optional brightness slider, and can be customized.
                    DESC
 
-  s.homepage     = "https://github.com/joncardasis/ChromaColorPicker"
+  s.homepage     = "https://github.com/sailingX/ChromaColorPicker"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author    = "Jonathan Cardasis"
   s.platform     = :ios, "10.0"
-  s.source       = { :git => "https://github.com/joncardasis/ChromaColorPicker.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/sailingX/ChromaColorPicker.git", :tag => "#{s.version}" }
   s.source_files  = "Source/**/*.swift"
 
 end
